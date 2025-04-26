@@ -3,7 +3,7 @@ import requests
 import re
 
 # Replace this with your deployed API endpoint URL
-API_URL = "https://<your-render-domain>/process"
+API_URL = "https://multi-agent-chat.onrender.com"
 
 st.title("Web Research Report Generator")
 
